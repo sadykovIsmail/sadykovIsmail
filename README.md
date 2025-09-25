@@ -5,25 +5,20 @@ I love building real-world projects with **JavaScript, React, Node.js, and Postg
 
 ---
 
-## 🚀 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
-![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)  
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,html,css,git,github" />
+</p>
 
 ---
 
 ## 📂 Featured Projects
-- 🛒 [Inventory App](https://github.com/sadykovIsmail/inventory-app)  
+- 🛒 [Inventory App](https://github.com/sadykovIsmail/node.js/tree/main/08-inventory-app)  
    Full-stack **Node.js + PostgreSQL** app to manage products.  
-- 💬 [Message Board](https://github.com/sadykovIsmail/message-board)  
+- 💬 [Message Board](https://github.com/sadykovIsmail/node.js/tree/main/05-message-board)  
    A discussion board project with **Node.js & Express**.  
-- 🌐 [Frontend Projects](https://github.com/sadykovIsmail/frontend-projects)  
+- 🌐 [Frontend Projects]([https://github.com/sadykovIsmail/frontend-projects](https://github.com/sadykovIsmail/frontend-projects-collection))  
    Collection of 30+ **React / HTML / CSS apps**.  
 
 ---
