@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ismail Sadykov
+# 👋 Hi, I'm Ismail 
 
 💻 Aspiring Full-Stack Developer | 🎓 CS Student | 🌍 International Learner
 
@@ -22,13 +22,13 @@ Collection of **React / HTML / CSS apps**.
 
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadykovIsmail&show_icons=true&count_private=true&theme=radical" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadykovIsmail&layout=compact&theme=radical" height="180em" />
 </p>
+
 
 ---
 
