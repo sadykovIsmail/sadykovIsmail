@@ -1,8 +1,37 @@
-# 👋 Hi, I'm Ismail
+# 👋 Hi, I'm Ismail Sadykov
 
 💻 Aspiring Full-Stack Developer | 🎓 CS Student | 🌍 International Learner  
 
-I enjoy building **web apps**, solving **coding challenges**, and learning **new technologies** every day.  
+I enjoy building **web apps**, solving **coding challenges**, and continuously learning new technologies.
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 [Inventory App](https://github.com/sadykovIsmail/inventory-app)  
+Full-stack **Node.js + Express + PostgreSQL** app to manage products.  
+![Inventory App](https://via.placeholder.com/250x120.png?text=Inventory+App)
+
+### 💬 [Message Board](https://github.com/sadykovIsmail/message-board)  
+Discussion board built with **Node.js & Express**.  
+![Message Board](https://via.placeholder.com/250x120.png?text=Message+Board)
+
+### 🌐 [Frontend Projects](https://github.com/sadykovIsmail/frontend-projects)  
+Collection of **React / HTML / CSS apps**.  
+![Frontend Projects](https://via.placeholder.com/250x120.png?text=Frontend+Projects)
+
+### 🗂️ [File Sharing App](https://github.com/sadykovIsmail/file-sharing-app)  
+A project to upload and share files using **Node.js + Express + EJS**.  
+![File Sharing App](https://via.placeholder.com/250x120.png?text=File+Sharing+App)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadykovIsmail&show_icons=true&count_private=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadykovIsmail&layout=compact&theme=radical" height="180em" />
+</p>
 
 ---
 
@@ -40,35 +69,6 @@ I enjoy building **web apps**, solving **coding challenges**, and learning **new
 
 ---
 
-## 📂 Featured Projects
-
-### 🛒 [Inventory App](https://github.com/sadykovIsmail/inventory-app)  
-Full-stack **Node.js + Express + PostgreSQL** app to manage products.  
-![Inventory App](https://via.placeholder.com/250x120.png?text=Inventory+App)
-
-### 💬 [Message Board](https://github.com/sadykovIsmail/message-board)  
-Discussion board built with **Node.js & Express**.  
-![Message Board](https://via.placeholder.com/250x120.png?text=Message+Board)
-
-### 🌐 [Frontend Projects](https://github.com/sadykovIsmail/frontend-projects)  
-Collection of **React / HTML / CSS apps**.  
-![Frontend Projects](https://via.placeholder.com/250x120.png?text=Frontend+Projects)
-
-### 🗂️ [File Sharing App](https://github.com/sadykovIsmail/file-sharing-app)  
-A portfolio project to upload and share files **Node.js + Express + EJS**.  
-![File Sharing App](https://via.placeholder.com/250x120.png?text=File+Sharing+App)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadykovIsmail&show_icons=true&count_private=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadykovIsmail&layout=compact&theme=radical" height="180em" />
-</p>
-
----
-
 ## 💻 LeetCode Stats
 
 <p align="center">
@@ -96,6 +96,3 @@ A portfolio project to upload and share files **Node.js + Express + EJS**.
 ---
 
 ⭐️ *Check out my repositories and feel free to reach out!*
- 
-
-
