@@ -49,7 +49,7 @@ I love building real-world projects with **JavaScript, React, Node.js, and Postg
 
 ## 📫 Connect with Me
 - GitHub: [@sadykovIsmail](https://github.com/sadykovIsmail)  
-- LinkedIn: (linkedin.com/in/ismail-sadykov-73860236a)  
+- LinkedIn: [Ismail Sadykov](linkedin.com/in/ismail-sadykov-73860236a)  
 
 ---
 
