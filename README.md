@@ -10,19 +10,16 @@ I enjoy building **web apps**, solving **coding challenges**, and continuously l
 
 ### 🛒 [Inventory App](https://github.com/sadykovIsmail/inventory-app)
 Full-stack **Node.js + Express + PostgreSQL** app to manage products.
-![Inventory App](https://via.placeholder.com/250x120.png?text=Inventory+App)
+![Inventory App](https://github.com/sadykovIsmail/node.js/tree/main/08-inventory-app)
 
 ### 💬 [Message Board](https://github.com/sadykovIsmail/message-board)
 Discussion board built with **Node.js & Express**.
-![Message Board](https://via.placeholder.com/250x120.png?text=Message+Board)
+![Message Board](https://github.com/sadykovIsmail/node.js/tree/main/05-message-board)
 
 ### 🌐 [Frontend Projects](https://github.com/sadykovIsmail/frontend-projects)
 Collection of **React / HTML / CSS apps**.
-![Frontend Projects](https://via.placeholder.com/250x120.png?text=Frontend+Projects)
+![Frontend Projects]([https://via.placeholder.com/250x120.png?text=Frontend+Projects](https://github.com/sadykovIsmail/frontend-projects-collection))
 
-### 🗂️ [File Sharing App](https://github.com/sadykovIsmail/file-sharing-app)
-A project to upload and share files using **Node.js + Express + EJS**.
-![File Sharing App](https://via.placeholder.com/250x120.png?text=File+Sharing+App)
 
 ---
 
@@ -78,10 +75,10 @@ A project to upload and share files using **Node.js + Express + EJS**.
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/ismail-sadykov-73860236a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="ismailsadykov1103@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
