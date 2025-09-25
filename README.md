@@ -23,11 +23,10 @@ Collection of **React / HTML / CSS apps**.
 
 ---
 ## 📊 GitHub Stats
+![Ismail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadykovIsmail&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadykovIsmail&show_icons=true&count_private=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadykovIsmail&layout=compact&theme=radical" height="180em" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=sadykovIsmail&theme=radical&hide_border=false)
+
 
 
 ---
