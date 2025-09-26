@@ -21,12 +21,6 @@ Collection of **React / HTML / CSS apps**.
 ![Frontend Projects]([https://via.placeholder.com/250x120.png?text=Frontend+Projects](https://github.com/sadykovIsmail/frontend-projects-collection))
 
 
----
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sadykovIsmail&theme=radical&hide_border=false)
-
-
 
 ---
 
@@ -61,6 +55,11 @@ Collection of **React / HTML / CSS apps**.
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
 </p>
+
+---
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sadykovIsmail&theme=radical&hide_border=false)
 
 ---
 
