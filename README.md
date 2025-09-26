@@ -64,11 +64,6 @@ Collection of **React / HTML / CSS apps**.
 
 ---
 
-## 💻 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/SadykovIsmail)
-
----
 
 ## 🌐 Connect with Me
 
@@ -83,9 +78,5 @@ Collection of **React / HTML / CSS apps**.
 
 ---
 
-## 👀 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=sadykovIsmail&color=blue&style=flat-square)
-
----
 
 ⭐️ *Check out my repositories and feel free to reach out!*
