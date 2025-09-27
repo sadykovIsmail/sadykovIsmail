@@ -62,7 +62,7 @@ Collection of **React / HTML / CSS apps**.
 ![GitHub Streak](https://streak-stats.demolab.com?user=sadykovIsmail&theme=radical&hide_border=false)
 
 ---
-[![LeetCode Stats](https://leetcard.jacoblin.cool/SadykovIsmail?theme=dark&font=ABeeZee&ext=contest)](https://leetcode.com/SadykovIsmail/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SadykovIsmail?theme=light&font=Karma&ext=heatmap)](https://leetcode.com/SadykovIsmail/)
 
 ---
 
