@@ -63,8 +63,7 @@ Collection of **React / HTML / CSS apps**.
 
 ---
 
-[![LeetCode Streak](https://url-to-your-generated-leetcode-streak-image)](https://leetcode.com/SadykovIsmail/)
-
+[![LeetCode Stats](https://url-to-your-generated-stats-image)](https://leetcode.com/SadykovIsmail/)
 ---
 
 
