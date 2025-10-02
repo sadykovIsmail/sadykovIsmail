@@ -20,8 +20,6 @@ Discussion board built with **Node.js & Express**.
 Collection of **React / HTML / CSS apps**.
 ![Frontend Projects]([https://via.placeholder.com/250x120.png?text=Frontend+Projects](https://github.com/sadykovIsmail/frontend-projects-collection))
 
-
-
 ---
 
 ## ⚡ Tech Stack
@@ -57,15 +55,22 @@ Collection of **React / HTML / CSS apps**.
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sadykovIsmail&theme=radical&hide_border=false)
 
+## 🖥️ Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadykovIsmail&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
 ---
+
 [![LeetCode Heatmap](https://leetcard.jacoblin.cool/SadykovIsmail?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/SadykovIsmail/)
 
 ---
-
 
 ## 🌐 Connect with Me
 
@@ -80,5 +85,5 @@ Collection of **React / HTML / CSS apps**.
 
 ---
 
-
 ⭐️ *Check out my repositories and feel free to reach out!*
+
