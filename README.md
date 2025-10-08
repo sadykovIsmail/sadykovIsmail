@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ismai
+# 👋 Hi, I'm Ismail
 
 💻 Aspiring Full-Stack Developer | 🎓 CS Student | 🌍 International Learner
 
