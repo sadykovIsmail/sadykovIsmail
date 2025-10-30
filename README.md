@@ -8,17 +8,22 @@ I enjoy building **web apps**, solving **coding challenges**, and continuously l
 
 ## 📂 Featured Projects
 
+### 🔐 [Members Only](https://members-only-0p4j.onrender.com/)
+Authentication-based **Node.js + Express + MongoDB** app where only verified members can view authors’ names.  
+![Members Only](https://github.com/sadykovIsmail/node.js/tree/main/10-members-only)
+
 ### 🛒 [Inventory App](https://github.com/sadykovIsmail/inventory-app)
-Full-stack **Node.js + Express + PostgreSQL** app to manage products.
+Full-stack **Node.js + Express + PostgreSQL** app to manage products.  
 ![Inventory App](https://github.com/sadykovIsmail/node.js/tree/main/08-inventory-app)
 
 ### 💬 [Message Board](https://github.com/sadykovIsmail/message-board)
-Discussion board built with **Node.js & Express**.
+Discussion board built with **Node.js & Express**.  
 ![Message Board](https://github.com/sadykovIsmail/node.js/tree/main/05-message-board)
 
 ### 🌐 [Frontend Projects](https://github.com/sadykovIsmail/frontend-projects)
-Collection of **React / HTML / CSS apps**.
-![Frontend Projects]([https://via.placeholder.com/250x120.png?text=Frontend+Projects](https://github.com/sadykovIsmail/frontend-projects-collection))
+Collection of **React / HTML / CSS apps**.  
+![Frontend Projects](https://github.com/sadykovIsmail/frontend-projects-collection)
+
 
 ---
 
