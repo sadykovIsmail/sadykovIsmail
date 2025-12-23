@@ -9,7 +9,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_1 }}
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Verify GitHub Stats
+        run: |
+          echo "GitHub Stats are embedded in README.md as dynamic images"
+          echo "Stats URLs are automatically updated by external services:"
+          echo "- GitHub Streak Stats: https://streak-stats.demolab.com"
+          echo "- GitHub Readme Stats: https://github-readme-stats.vercel.app"
+          echo "- LeetCode Stats: https://leetcard.jacoblin.cool"
+          echo "No updates needed - stats are dynamically generated on view"
