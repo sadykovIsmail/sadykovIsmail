@@ -67,8 +67,10 @@ Collection of **React / HTML / CSS apps**.
 ## 🖥️ Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadykovIsmail&layout=compact&theme=radical&hide_border=false" />
+  <img src="https://github.com/sadykovIsmail?tab=repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadykovIsmail&layout=compact" />
 </p>
+
 
 ---
 
