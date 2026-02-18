@@ -24,12 +24,13 @@ Discussion board built with **Node.js & Express**.
 Collection of **React / HTML / CSS apps**.  
 ![Frontend Projects](https://github.com/sadykovIsmail/frontend-projects-collection)
 
+
 ---
 
 ## ⚡ Tech Stack
 
-<!-- 🧠 Backend Core -->
-<h3>🧠 Backend</h3>
+<!-- 🧠 Backend (Primary Focus) -->
+<h3>🧠 Backend (Primary)</h3>
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
@@ -40,24 +41,24 @@ Collection of **React / HTML / CSS apps**.
   <a href="https://www.django-rest-framework.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" height="40" alt="Django REST Framework" />
   </a>
-  <a href="https://gunicorn.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gunicorn/gunicorn-original.svg" height="40" alt="Gunicorn" />
+  <a href="https://swagger.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="Swagger" />
   </a>
 </p>
 
-<!-- 🗄 Database & Caching -->
-<h3>🗄 Database & Caching</h3>
+<!-- 🗄 Databases -->
+<h3>🗄 Databases</h3>
 <p>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
   </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
   </a>
 </p>
 
-<!-- ⚙ DevOps & Infrastructure -->
-<h3>⚙ DevOps & Infrastructure</h3>
+<!-- ⚙ DevOps & Deployment -->
+<h3>⚙ DevOps & Deployment</h3>
 <p>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
@@ -65,8 +66,8 @@ Collection of **React / HTML / CSS apps**.
   <a href="https://nginx.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx" />
   </a>
-  <a href="https://docs.github.com/en/actions" target="_blank">
-    <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" />
+  <a href="https://gunicorn.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gunicorn/gunicorn-original.svg" height="40" alt="Gunicorn" />
   </a>
 </p>
 
@@ -78,11 +79,28 @@ Collection of **React / HTML / CSS apps**.
   </a>
 </p>
 
-<!-- 🌐 Frontend -->
-<h3>🌐 Frontend</h3>
+<!-- 🌐 Node / MERN -->
+<h3>🌐 Node.js & MERN</h3>
+<p>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
+  </a>
+  <a href="https://ejs.co/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" height="40" alt="EJS" />
+  </a>
+</p>
+
+<!-- 🎨 Frontend -->
+<h3>🎨 Frontend</h3>
 <p>
   <a href="https://react.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
