@@ -1,11 +1,18 @@
-<div align="center">
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:36BCF7&height=200&section=header&text=Ismail%20Sadykov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%7C%20Django%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20Always%20Shipping&descAlignY=58&descSize=18&descColor=a9fef7" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Ismail+Sadykov;Backend+%26+Full-Stack+Engineer;Django+%7C+React+%7C+Python+%7C+Node.js;Building+real+systems%2C+not+just+tutorials." alt="Typing SVG" />
+<!-- TYPING SVG SUBTITLE -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%9A%80;Backend+%26+API+Developer+%F0%9F%94%A7;Django+%7C+React+%7C+Node.js+%E2%9A%99%EF%B8%8F;Building+real+systems%2C+not+just+tutorials+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+</div>
 
 <br/>
 
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=sadykovIsmail&color=36BCF7&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/sadykovIsmail?label=Followers&style=flat-square&color=36BCF7&labelColor=0D1117)](https://github.com/sadykovIsmail?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/sadykovIsmail?label=Total%20Stars&style=flat-square&color=36BCF7&labelColor=0D1117)](https://github.com/sadykovIsmail)
 
 </div>
 
@@ -15,7 +22,7 @@
 
 ```python
 class IsmailSadykov:
-    location   = "Houston, TX"
+    location   = "Houston, TX 🌆"
     education  = "Computer Science Student"
     focus      = ["Backend Systems", "REST APIs", "System Design"]
     stack      = ["Python", "Django", "JavaScript", "React", "Node.js"]
@@ -31,20 +38,26 @@ class IsmailSadykov:
 <div align="center">
 
 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,py" />
 
-[![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
+<br/><br/>
 
 **Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind)](https://skillicons.dev)
+<br/><br/>
 
 **Backend & APIs**
+<br/>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express" />
 
-[![My Skills](https://skillicons.dev/icons?i=django,nodejs,express)](https://skillicons.dev)
+<br/><br/>
 
 **Databases & Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github)](https://skillicons.dev)
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github" />
 
 </div>
 
@@ -55,17 +68,19 @@ class IsmailSadykov:
 <div align="center">
 
 <a href="https://github.com/sadykovIsmail/Java-script">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadykovIsmail&repo=Java-script&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadykovIsmail&repo=Java-script&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9&description_lines_count=2" />
 </a>
 <a href="https://github.com/sadykovIsmail/frontend-projects-collection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadykovIsmail&repo=frontend-projects-collection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadykovIsmail&repo=frontend-projects-collection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9&description_lines_count=2" />
 </a>
 
+<br/>
+
 <a href="https://github.com/sadykovIsmail/python-course">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadykovIsmail&repo=python-course&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadykovIsmail&repo=python-course&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9&description_lines_count=2" />
 </a>
 <a href="https://github.com/sadykovIsmail/django_advanced_rest_api_course">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadykovIsmail&repo=django_advanced_rest_api_course&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadykovIsmail&repo=django_advanced_rest_api_course&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9&description_lines_count=2" />
 </a>
 
 </div>
@@ -117,22 +132,16 @@ class IsmailSadykov:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sadykovIsmail&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadykovIsmail&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9&langs_count=8" height="175" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=sadykovIsmail&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadykovIsmail&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9&langs_count=8" height="180" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=sadykovIsmail&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF9900&currStreakLabel=36BCF7&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=sadykovIsmail&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF9900&currStreakLabel=36BCF7&sideLabels=C9D1D9&dates=C9D1D9" />
 
-</div>
+<br/>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadykovIsmail&theme=tokyo-night&bg_color=0D1117&color=36BCF7&line=36BCF7&point=A9FEF7&area=true&area_color=36BCF7&hide_border=true)](https://github.com/sadykovIsmail)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sadykovIsmail&theme=tokyo-night&bg_color=0D1117&color=36BCF7&line=36BCF7&point=A9FEF7&area=true&area_color=36BCF7&hide_border=true" />
 
 </div>
 
@@ -142,13 +151,13 @@ class IsmailSadykov:
 
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadykovIsmail&theme=tokyonight)](https://github.com/sadykovIsmail)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadykovIsmail&theme=tokyonight" width="100%" />
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadykovIsmail&theme=tokyonight)](https://github.com/sadykovIsmail)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadykovIsmail&theme=tokyonight)](https://github.com/sadykovIsmail)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadykovIsmail&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadykovIsmail&theme=tokyonight" />
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadykovIsmail&theme=tokyonight)](https://github.com/sadykovIsmail)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sadykovIsmail&theme=tokyonight&utcOffset=-6)](https://github.com/sadykovIsmail)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadykovIsmail&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sadykovIsmail&theme=tokyonight&utcOffset=-6" />
 
 </div>
 
@@ -159,9 +168,9 @@ class IsmailSadykov:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadykovIsmail/sadykovIsmail/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/sadykovIsmail/sadykovIsmail/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadykovIsmail/sadykovIsmail/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sadykovIsmail/sadykovIsmail/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sadykovIsmail/sadykovIsmail/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -172,7 +181,7 @@ class IsmailSadykov:
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=sadykovIsmail&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/sadykovIsmail)
+<img src="https://github-profile-trophy.vercel.app/?username=sadykovIsmail&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
 
 </div>
 
@@ -186,8 +195,7 @@ class IsmailSadykov:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadykovIsmail)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismailsadykov1103@gmail.com)
 
-<br/>
-
-*"The best engineers are the ones who ship."*
-
 </div>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0d1117&height=100&section=footer" />
